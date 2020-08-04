@@ -44,8 +44,7 @@
         &show_icons=true
         &theme=dark
         &hide_border=true
-        &hide=prs,issues
-        &count_private=true" />
+        &hide=prs,issues" />
 
 <br />
 <br />
