@@ -10,7 +10,7 @@
 - Fun fact: I have a puppy named Hobbes
 
 ## TTT Latest Blog Posts
-[<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[Dev Blog][website]
 <br />
 
 <!-- BLOG-POST-LIST:START -->
