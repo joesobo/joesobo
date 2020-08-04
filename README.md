@@ -1,16 +1,10 @@
 # Hi! My name is Joseph Soboleski 
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
-- 🔭 I’m currently working on a small game called [Tiny Turtle Tanks][TinyTurtleTanks]!
+- 🔭 I’m currently working on a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
 - 🌱 I’m currently learning a bit of art design
 - 👯 I’m looking to collaborate with other Game Developers
 - ⚡ Fun fact: I play guitar and have a puppy named Hobbes
-
-### Connect with me:
-
-[<img align="left" alt="WebSite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -35,11 +29,23 @@
 
 ---
 
-## 📕 Latest Blog Posts
+## TTT Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
 - [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&hide_border=true" />
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
 [website]: https://joesobo.github.io/TinyTurtleTanks/
