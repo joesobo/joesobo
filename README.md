@@ -39,11 +39,8 @@
 
 <img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true)](https://github.com/joesobo/github-readme-stats)
+<img align="right" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
