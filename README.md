@@ -37,9 +37,7 @@
 
 ---
 
-<img align="left" 
-    alt="JoeSobo's Github Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
+<img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
 
 <br />
 <br />
