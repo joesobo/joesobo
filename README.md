@@ -11,6 +11,7 @@
 
 ## TTT Latest Blog Posts
 [<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
 
 <!-- BLOG-POST-LIST:START -->
 - [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
@@ -33,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/unity.webp" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/unity2.webp" />
 
 <br />
 
@@ -58,6 +59,7 @@
 
 [GitHub Readme Stats][ReadMEStats]
 [Blog Post Workflow][BlogPostWorkflow]
+and more!
 
 [TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
 [website]: https://joesobo.github.io/TinyTurtleTanks/
