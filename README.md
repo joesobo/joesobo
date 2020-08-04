@@ -12,10 +12,6 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://joesobo.github.io/TinyTurtleTanks/
-[twitter]: https://twitter.com/JosephSobo
-[linkedin]: https://www.linkedin.com/in/joe-soboleski-34a502135/
-
 <br />
 
 ### Languages And Tools:
@@ -32,7 +28,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="../images/unity.jpg" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/unity.jpg" />
 
 <br />
 <br />
+
+[website]: https://joesobo.github.io/TinyTurtleTanks/
+[twitter]: https://twitter.com/JosephSobo
+[linkedin]: https://www.linkedin.com/in/joe-soboleski-34a502135/
