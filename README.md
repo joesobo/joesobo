@@ -8,7 +8,15 @@
 
 <br />
 
-## Languages And Tools:
+### TTT Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
+- [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### Languages And Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,14 +37,7 @@
 
 ---
 
-## TTT Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
-- [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
+### Stats
 <img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
 
 <img align="left" height="150px" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
