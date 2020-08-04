@@ -37,6 +37,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
+- [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
 [TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
