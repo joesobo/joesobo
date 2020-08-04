@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! My name is Joseph Soboleski 
 
-<!--
-**joesobo/joesobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer, Game Developer, and Front-End Web Developer
+- 🔭 I’m currently working on a small game called Tiny Turtle Tanks
+- 🌱 I’m currently learning a bit of art design
+- 👯 I’m looking to collaborate with Game Developers
+- ⚡ Fun fact: I play guitar and have a puppy named Hobbes
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="WebSite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://joesobo.github.io/TinyTurtleTanks/
+[twitter]: https://twitter.com/JosephSobo
+[linkedin]: https://www.linkedin.com/in/joe-soboleski-34a502135/
