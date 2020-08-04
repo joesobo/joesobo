@@ -38,12 +38,6 @@
 ---
 
 <img align="left" 
-    alt="ReadMe Card" 
-    src="https://github-readme-stats.vercel.app/api/pin/
-        ?username=joesobo
-        &repo=joesobo" />
-
-<img align="left" 
     alt="JoeSobo's Github Stats" 
     src="https://github-readme-stats.vercel.app/api
         ?username=joesobo
