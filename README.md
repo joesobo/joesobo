@@ -37,7 +37,11 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joesobo&repo=github-readme-stats)](https://github.com/joesobo/github-readme-stats)
+<img align="left" 
+    alt="ReadMe Card" 
+    src="https://github-readme-stats.vercel.app/api/pin/
+        ?username=joesobo
+        &repo=joesobo" />
 
 <img align="left" 
     alt="JoeSobo's Github Stats" 
