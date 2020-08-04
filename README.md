@@ -1,7 +1,7 @@
 # Hi! My name is Joseph Soboleski 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Joe%Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)][linkedin]
+[![Linkedin: joe-sobo](https://img.shields.io/badge/-Joe%Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)][linkedin]
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
 - I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
@@ -34,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/unity2.webp" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/Unity2.webp" />
 
 <br />
 
@@ -51,14 +51,15 @@
 <br />
 <br />
 <br />
-<br />
 
 ---
 
 #### Made with:
 
 [GitHub Readme Stats][ReadMEStats]
+<br />
 [Blog Post Workflow][BlogPostWorkflow]
+<br />
 and more!
 
 [TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
