@@ -1,7 +1,7 @@
 ### Hi! My name is Joseph Soboleski 
 
 ## I'm a Software Engineer, Game Developer, and Front-End Web Developer
-- 🔭 I’m currently working on a small game called Tiny Turtle Tanks
+- 🔭 I’m currently working on a small game called Tiny Turtle Tanks[TinyTurtleTanks]!
 - 🌱 I’m currently learning a bit of art design
 - 👯 I’m looking to collaborate with other Game Developers
 - ⚡ Fun fact: I play guitar and have a puppy named Hobbes
@@ -33,6 +33,13 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
 [website]: https://joesobo.github.io/TinyTurtleTanks/
 [twitter]: https://twitter.com/JosephSobo
 [linkedin]: https://www.linkedin.com/in/joe-soboleski-34a502135/
