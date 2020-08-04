@@ -39,6 +39,8 @@
 
 <img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo)](https://github.com/joesobo/github-readme-stats)
+
 <br />
 <br />
 <br />
