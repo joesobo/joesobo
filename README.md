@@ -41,6 +41,14 @@
 
 <img align="right" width="340px" height="150px" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ---
 
 ### Connect with me:
