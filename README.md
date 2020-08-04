@@ -1,5 +1,7 @@
 <img align="left" alt="TinyTurtleTanks Planet" src="https://github.com/joesobo/joesobo/blob/master/images/TTT.png" />
 
+<br />
+
 # Hi! My name is Joseph Soboleski 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
@@ -12,7 +14,7 @@
 - Fun fact: I have a puppy named Hobbes
 
 ## TTT Latest Blog Posts
-[Dev Blog][website]
+[Dev Blog - GitHub Pages][website]
 <br />
 
 <!-- BLOG-POST-LIST:START -->
