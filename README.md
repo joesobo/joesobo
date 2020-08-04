@@ -6,19 +6,13 @@
 - I’m looking to collaborate with: other Game Developers
 - Fun fact: I have a puppy named Hobbes
 
-<br />
-
 ## TTT Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
 - [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ---
-
-<br />
 
 ### Languages And Tools:
 
@@ -37,11 +31,8 @@
 <img align="left" alt="Unity" width="26px" src="https://github.com/joesobo/joesobo/blob/master/images/unity.webp" />
 
 <br />
-<br />
 
 ---
-
-<br />
 
 ### Stats
 <img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
@@ -58,8 +49,6 @@
 
 ---
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -68,11 +57,8 @@
 
 <br />
 <br />
-<br />
 
 ---
-
-<br />
 
 #### Made with:
 
