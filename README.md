@@ -1,7 +1,7 @@
 # Hi! My name is Joseph Soboleski 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
-[![Linkedin: joe-sobo](https://img.shields.io/badge/-Joe%Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)][linkedin]
+[![Linkedin: joe-soboleski](https://img.shields.io/badge/-Joe%20Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)](https://www.linkedin.com/in/joe-soboleski-34a502135/)
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
 - I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
