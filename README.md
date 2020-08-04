@@ -1,10 +1,10 @@
 # Hi! My name is Joseph Soboleski 
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
-- 🔭 I’m currently working on a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
-- 🌱 I’m currently learning a bit of art design
-- 👯 I’m looking to collaborate with other Game Developers
-- ⚡ Fun fact: I play guitar and have a puppy named Hobbes
+- I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
+- I’m currently learning: a bit of art design
+- I’m looking to collaborate with: other Game Developers
+- Fun fact: I have a puppy named Hobbes
 
 <br />
 
@@ -37,9 +37,9 @@
 
 ---
 
-<img align="center" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
+<img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,issues" />
 
-<img align="center" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
+<img align="right" width="340px" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
 
 <br />
 <br />
