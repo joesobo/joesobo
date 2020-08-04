@@ -1,5 +1,8 @@
 # Hi! My name is Joseph Soboleski 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Joe%Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)][linkedin]
+
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
 - I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
 - I’m currently learning: a bit of art design
@@ -7,6 +10,8 @@
 - Fun fact: I have a puppy named Hobbes
 
 ## TTT Latest Blog Posts
+[<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 <!-- BLOG-POST-LIST:START -->
 - [My First Post](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/first-post.html)
 - [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
@@ -44,17 +49,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-
----
-
-### Connect with me:
-
-[<img align="left" alt="TTTBlog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 <br />
 
