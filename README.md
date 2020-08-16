@@ -35,6 +35,7 @@
 <br />
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Update #1](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/08/16/Weekly-Update-1.html)
 - [Redoing Enemies](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/08/09/redoing-enemies.html)
 - [My First Post](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/07/30/first-post.html)
 - [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
