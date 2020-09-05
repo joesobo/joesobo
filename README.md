@@ -26,7 +26,7 @@
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
 - I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
-- I’m currently learning: a bit of art design
+- I’m currently learning: a bit of pixel art design
 - I’m looking to collaborate with: other Game Developers
 - Fun fact: I have a puppy named Hobbes
 
