@@ -19,18 +19,18 @@
 <br />
 <br />
 
-# Hi! My name is Joseph Soboleski 
+# Hi! My name is Joseph Soboleski or Poleski
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
 [![Linkedin: joe-soboleski](https://img.shields.io/badge/-Joe%20Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)](https://www.linkedin.com/in/joe-soboleski-34a502135/)
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
-- I’m currently working on: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
+- I’ve recently released by first game: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
+- I'm currently working on my latest game: World War Ants
 - I’m currently learning: a bit of pixel art design
-- I’m looking to collaborate with: other Game Developers
 - Fun fact: I have a puppy named Hobbes
 
-## TTT Latest Blog Posts
+## TTT Latest Blog Posts  - Outdated
 [Dev Blog - GitHub Pages][website]
 <br />
 
@@ -86,7 +86,7 @@
 <br />
 and more!
 
-[TinyTurtleTanks]: https://github.com/joesobo/TinyTurtleTanks
+[TinyTurtleTanks]: https://poleski.itch.io/tiny-turtle-tanks
 [website]: https://joesobo.github.io/TinyTurtleTanks/
 [twitter]: https://twitter.com/JosephSobo
 [linkedin]: https://www.linkedin.com/in/joe-soboleski-34a502135/
