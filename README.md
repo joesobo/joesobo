@@ -25,7 +25,7 @@
 [![Linkedin: joe-soboleski](https://img.shields.io/badge/-Joe%20Soboleski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joe-soboleski-34a502135/)](https://www.linkedin.com/in/joe-soboleski-34a502135/)
 
 ### I'm a Software Engineer, Game Developer, and Front-End Web Developer
-- I’ve recently released by first game: a small game called [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
+- I’ve recently released my first small game: [Tiny Turtle Tanks][TinyTurtleTanks] (TTT)!
 - I'm currently working on my latest game: World War Ants
 - I’m currently learning: a bit of pixel art design
 - Fun fact: I have a puppy named Hobbes
