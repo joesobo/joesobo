@@ -19,8 +19,6 @@
 <br />
 <br />
 
-Hello there! My name is Joe and I love making stuff. Doesn't matter too much what kind of stuff, I'm always interested in learning how to create something new. Whether its programming like game, web, or app development, or learning how to make something else with my hands like cooking, I love it all. 
-
 # Hi! My name is Joseph Soboleski or Poleski
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joesobo?label=Follow)][twitter]
