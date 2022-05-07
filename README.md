@@ -30,17 +30,6 @@
 - I’m currently learning: a bit of pixel art design
 - Fun fact: I have a puppy named Hobbes
 
-## TTT Latest Blog Posts  - Outdated
-[Dev Blog - GitHub Pages][website]
-<br />
-
-<!-- BLOG-POST-LIST:START -->
-- [Weekly Update #1](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/08/16/Weekly-Update-1.html)
-- [Redoing Enemies](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/08/09/redoing-enemies.html)
-- [My First Post](https://joesobo.github.io/TinyTurtleTanks/ttt/update/2020/07/30/first-post.html)
-- [Welcome to Jekyll!](https://joesobo.github.io/TinyTurtleTanks/jekyll/update/2020/07/30/welcome-to-jekyll.html)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ### Languages And Tools:
@@ -62,29 +51,6 @@
 <br />
 
 ---
-
-### Stats
-<img align="left" alt="JoeSobo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joesobo&show_icons=true&theme=dark&hide_border=true&hide=prs,contribs" />
-
-<img align="left" height="150px" alt="JoeSobo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesobo&layout=compact&theme=dark&hide_border=true" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
-
-#### Made with:
-
-[GitHub Readme Stats][ReadMEStats]
-<br />
-[Blog Post Workflow][BlogPostWorkflow]
-<br />
-and more!
 
 [TinyTurtleTanks]: https://poleski.itch.io/tiny-turtle-tanks
 [website]: https://joesobo.github.io/TinyTurtleTanks/
